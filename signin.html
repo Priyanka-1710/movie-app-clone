@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Netflix - Sign In</title>
+  <link rel="stylesheet" href="signin.css">
+</head>
+
+<body>
+
+<img src="images/logo.png" style="position:absolute; top:20px; left:40px; width:150px;">
+
+<div class="signin-container">
+
+  <div class="signin-box">
+    <h1>Sign In</h1>
+
+    <form id="loginForm">
+      <input id="emailInput" type="text" placeholder="Email or phone number" required>
+      <input id="passwordInput" type="password" placeholder="Password" required>
+
+      <button type="submit">Sign In</button>
+
+      <div class="help">
+        <label>
+          <input type="checkbox"> Remember me
+        </label>
+        <span>Need help?</span>
+      </div>
+    </form>
+
+    <p class="signup-text">
+      New to Netflix? <span id="signupNow">Sign up now</span>
+    </p>
+
+  </div>
+
+</div>
+
+<script src="./signin.js"></script>
+</body>
+</html>
