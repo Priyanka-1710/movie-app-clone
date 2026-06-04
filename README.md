@@ -1,29 +1,29 @@
-# 🎬 Netflix Clone
+# Netflix Clone
 
 A responsive Netflix landing page clone built using HTML and CSS.  
 This project replicates the UI of Netflix with a clean layout and modern design.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Responsive design (mobile + desktop)
-- ✅ Clean and modern UI
-- ✅ Flexbox-based layout
-- ✅ Proper card alignment
-- ✅ Image scaling and positioning
-- ✅ Header section with background overlay
+-  Responsive design (mobile + desktop)
+-  Clean and modern UI
+-  Flexbox-based layout
+-  Proper card alignment
+-  Image scaling and positioning
+-  Header section with background overlay
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3 (Flexbox + Media Queries)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Netflix-clone
 │── index.html
 │── style6.css
@@ -38,19 +38,19 @@ Netflix-clone
 
 ---
 
-## 📸 Preview
+##  Preview
 
 (Add your project screenshot here)
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-(Add your GitHub Pages link here)
+(Add  GitHub Pages link here)
 
 ---
 
-## 📌 What I Learned
+##  What I Learned
 
 - Building responsive layouts using CSS
 - Using Flexbox for alignment
@@ -59,7 +59,7 @@ Netflix-clone
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Add JavaScript for interactivity
 - FAQ accordion section
@@ -68,7 +68,7 @@ Netflix-clone
 
 ---
 
-## 🙌 Acknowledgement
+##  Acknowledgement
 
 This project is inspired by the Netflix website UI for learning purposes.
 
